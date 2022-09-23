@@ -15,10 +15,11 @@ This app is still in alpha so if you find some bugs report them.
 
 WidgetEx was made in storyboard for full macOSX support. (SwiftUI Version coming...)
 
+## How to use
+Open preferences by clicking on the clock and press command+,
+Close the app clicking on the X icon in the status bar
+
 ## Download
-
-[![](https://github.com/WolfHexPlus/WidgetEx)](https://apps.apple.com/app/id1351639930)
-
 Requires macOSX 10.11 or later.
 
 **Known Bugs**
