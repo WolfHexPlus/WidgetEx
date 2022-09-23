@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="./icon.pmg" width="200" height="200">
+	<img src="https://raw.githubusercontent.com/WolfHexPlus/WidgetEx/main/icon.png" width="200" height="200">
 	<h1>WidgetEx</h1>
 	<p>
 		<b>Add a clock widget to you Mac Desktop</b>
